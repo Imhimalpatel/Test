@@ -32,4 +32,4 @@
 10- Delete the tag.
  - git tag - d V1.0
 
-Repository Link :-https://github.com/Imhimalpatel/TSC-Test.git
+Repository Link :-https://github.com/Imhimalpatel/Test.git

@@ -38,7 +38,7 @@ Changes to be committed:
 10- Unstage the file.
   Cmt:- git restore --staged Assignment1.txt
  
-Repository link :-https://github.com/Imhimalpatel/TSC-Test.git
+Repository link :-https://github.com/Imhimalpatel/Test.git
 
 
  
