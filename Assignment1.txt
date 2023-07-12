@@ -1,0 +1,46 @@
+Assignment Instructions: -1 
+1- Initialize a new repository. Add two files in your working directory.
+  Cmt:- 1 :- Git init 
+
+2- View the status of the working directory and the staging area.
+  Cmt:- 1 :- git status 
+On branch main
+Your branch and 'origin/main' have diverged,
+and have 8 and 10 different commits each, respectively.
+  (use "git pull" to merge the remote branch into yours)
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   TSC Test/Assignment1.txt
+        new file:   TSC Test/Assignment2.txt
+
+3- Stage both files.
+  Cmt:- Git add .
+
+4- View the changes in the staging area.
+  Cmt:- Git diff --staged
+
+5- Create a commit.
+  Cmt:- Git commit -m"Added assignment1.txt"
+
+6- View the list of commits.
+  Cmt:- Git log --oneline --one 
+
+7- View the content of the last commit.
+  Cmt:- Git show Head
+
+8- Update one of the files. View the changes in the working directory.
+  Cmt:- Git diff 
+ 
+9- Stage the changes.
+  Cmt:- git add .
+
+10- Unstage the file.
+  Cmt:- git restore --staged Assignment1.txt
+ 
+Repository link :-https://github.com/Imhimalpatel/TSC-Test.git
+
+
+ 
+
+
